@@ -26,4 +26,5 @@ void main()
 			printf("%d\t",c[i][j]);
 		printf("\n");
 	}
+	return 0;
 }
